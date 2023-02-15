@@ -23,14 +23,16 @@ public class BaseTest {
 
 
 
-     @AfterTest
-        public void clearCookieAndStorage(){
-            if (CLEAR_COOKIES_AND_STORAGE) {
-                 JavascriptExecutor javascriptExecutor = (JavascriptExecutor) driver;
-                 driver.manage().deleteAllCookies();
-                  javascriptExecutor.executeScript("window.sessionStorage.clear()");
-             }
-          }
+    /**
+     * @AfterTest
+     *         public void clearCookieAndStorage(){
+     *             if (CLEAR_COOKIES_AND_STORAGE) {
+     *                  JavascriptExecutor javascriptExecutor = (JavascriptExecutor) driver;
+     *                  driver.manage().deleteAllCookies();
+     *                   javascriptExecutor.executeScript("window.sessionStorage.clear()");
+     *              }
+     *           }
+    */
 
 
     @AfterSuite (alwaysRun = true)

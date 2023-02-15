@@ -15,7 +15,7 @@ public class StepikHomePage extends BasePage {
 
     private final By findCourses = By.xpath("//input[@class='search-form__input ']");
     private final By findCoursesButton = By.xpath("//button[contains(@class, 'button_with-loader search-form__submit')]");
-    private final By loginButton = By.xpath("//a[@href='/catalog?auth=login']");
+    private final By loginButton = By.xpath("//a[@id='ember230']");
 
     public StepikHomePage enterFindCourses(){
         driver.findElement(findCourses).click();
