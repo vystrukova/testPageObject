@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e3b30e21-8735-4099-b194-402789a16c32" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LdvRVrDvKxfBmmF6urxY1kdHQS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/Admin/IdeaProjects/testAvito/src/test/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/IdeaProjects/testPageObject&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\IdeaProjects\testPageObject" />
+      <recent name="C:\Users\Admin\IdeaProjects\testPageObject\target" />
+      <recent name="C:\Users\Admin\IdeaProjects\testPageObject\src\test\resources" />
+      <recent name="C:\Users\Admin\IdeaProjects\testAvito\chromedriver_windows" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.SearchTest.checkIsRedirectToListing">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="testPageObject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTest.checkIsRedirectToListing" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testPageObject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.search" />
+      <option name="MAIN_CLASS_NAME" value="tests.search.SearchTest" />
+      <option name="METHOD_NAME" value="checkIsRedirectToListing" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTest.equalsNumbers" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testPageObject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.search" />
+      <option name="MAIN_CLASS_NAME" value="tests.search.SearchTest" />
+      <option name="METHOD_NAME" value="equalsNumbers" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SearchTest.checkIsRedirectToListing" />
+        <item itemvalue="TestNG.SearchTest.equalsNumbers" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3b30e21-8735-4099-b194-402789a16c32" name="Changes" comment="" />
+      <created>1676213769102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676213769102</updated>
+      <workItem from="1676213770806" duration="422000" />
+      <workItem from="1676214438944" duration="2070000" />
+      <workItem from="1676217105594" duration="92000" />
+      <workItem from="1676312471589" duration="49000" />
+      <workItem from="1676312595686" duration="6356000" />
+      <workItem from="1676322115255" duration="3737000" />
+      <workItem from="1676326099424" duration="512000" />
+      <workItem from="1676326620990" duration="636000" />
+      <workItem from="1676327266530" duration="753000" />
+      <workItem from="1676328030534" duration="1554000" />
+      <workItem from="1676410228552" duration="6053000" />
+      <workItem from="1676418851483" duration="282000" />
+      <workItem from="1676419143713" duration="300000" />
+      <workItem from="1676419453035" duration="1554000" />
+      <workItem from="1676421018187" duration="1766000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
